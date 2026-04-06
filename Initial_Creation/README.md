@@ -14,6 +14,11 @@ I installed the following:
 Notes:
 
 * I also took some time to configure some aliases so I could streamline common commands that I use frequently
+<<<<<<< HEAD
 * Configured GitHub Remote Repository with SSH keys so I can push from my Kali Machine
 * 
+=======
+* Configured GitHub Remote Repository with SSH keys so I can push from my Kali Machine. Alos ensured that SSH Sessions also had access and were required to authenticate.
+* I am thinking of installing and configuring Ghostty next
+>>>>>>> 89d296de7fc45cdf90cc50074e313a51fd9764aa
 
