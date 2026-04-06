@@ -17,7 +17,7 @@
 ### Access to Kali Linux
 
 * Kali Linux runs via Windows Subsystem for Linux 2 (WSL2), installed directly from the Microsoft Store.
-* GUI access is provided through Win-KeX (Windows + Kali Desktop Experience).
+* GUI access is provided through Win-KeX (Windows + Kali Desktop Experience). Though mainly I will use the terminal line as it runs smoother.
 
   * Due to the ARM64 architecture of the host device, Win-KeX operates exclusively in Enhanced Session Mode — the only supported GUI mode on non-x86 hardware.
   * Standard Win-KeX modes (Window Mode, Seamless Mode) are not available on ARM64 platforms. Enhanced Session Mode leverages RDP internally and remains fully functional for GUI-based tooling and workflows.
